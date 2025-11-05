@@ -1,0 +1,11 @@
+{
+    "libros": [
+        {
+            "titulo": "Los juegos del hambre",
+            "autor": "Suzzane Collins",
+            "anio": 2008,
+            "estado": "disponible"
+        }
+    ],
+    "usuarios": []
+}
